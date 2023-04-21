@@ -1,5 +1,5 @@
 {
-  "name": "pern-stack-template",
+  "name": "pean-stack-template",
   "version": "0.0.0",
   "private": true,
   "main": "server/dist/index.js",
